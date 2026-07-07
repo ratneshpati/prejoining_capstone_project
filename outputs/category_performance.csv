@@ -1,0 +1,15 @@
+video_category_id,videos,median_views,mean_like_rate,mean_engagement_rate,median_first_days_to_trend
+Science & Technology,467,1751174.0,5.12,5.39,1.0
+Comedy,829,938750.0,3.59,3.71,1.0
+Pets & Animals,20,679315.0,7.35,7.99,1.0
+Entertainment,8331,645181.0,2.9,3.03,1.0
+Film & Animation,773,536274.0,3.21,3.4,1.0
+Autos & Vehicles,205,492347.0,2.95,3.15,1.0
+News & Politics,784,473738.5,1.92,2.18,1.0
+People & Blogs,2634,433074.0,3.27,3.42,1.0
+Sports,2917,402214.0,2.17,2.35,1.0
+Travel & Events,93,356164.0,4.7,5.0,1.0
+Howto & Style,344,313447.0,2.46,2.61,1.0
+Education,349,282038.0,4.79,5.16,1.0
+Music,4942,220180.5,2.62,2.81,1.0
+Gaming,13852,143630.5,4.28,4.61,1.0

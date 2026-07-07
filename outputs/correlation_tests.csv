@@ -1,0 +1,6 @@
+pair,pearson_r,p_value,significant
+log_views ~ video_like_count,0.866,0.0e+00,True
+duration_min ~ like_rate,-0.043,1.5e-16,True
+title_length ~ like_rate,-0.219,0.0e+00,True
+tag_count ~ log_views,-0.082,1.3e-55,True
+countries_trended ~ log_views,0.175,4.4e-249,True

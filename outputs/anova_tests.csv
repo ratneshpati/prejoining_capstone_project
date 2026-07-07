@@ -1,0 +1,6 @@
+test,F,p_value,groups_differ
+log_views ~ video_category_id,535.3,0.0e+00,True
+like_rate ~ video_category_id,196.4,0.0e+00,True
+log_views ~ duration_group,2042.8,0.0e+00,True
+like_rate ~ duration_group,153.6,1.4e-130,True
+like_rate ~ publish_day,12.7,2.6e-14,True

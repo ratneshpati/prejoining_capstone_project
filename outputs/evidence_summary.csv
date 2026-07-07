@@ -1,0 +1,9 @@
+Driver,Evidence,Result
+Unit of analysis,Rows vs unique videos,"442,459 appearances -> 36,540 videos"
+Shorts reach,Median views <1min vs 5-20min,1.24M vs 0.22M (~5.7x)
+Length vs like-rate,Mean like-rate 20-60min vs Shorts,3.88% vs 3.03%
+Category spread,Median views top vs bottom,Sci&Tech 1.75M vs Gaming 0.14M
+Best publish window,Top median-view hours (UTC),03:00-05:00
+HD vs SD,Like-rate (t-test p~4e-10),3.41% vs 1.63%
+Engagement realness,corr log(views)~log(likes),"r=0.87, p~0"
+Geographic spread,Videos trending in 1 country only,"69% (median 1, max 81)"
