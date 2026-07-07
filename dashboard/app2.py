@@ -113,7 +113,8 @@ COLOR_PURPLE   = '#8b5cf6'
 # ═══════════════════════════════════════════════════════════════════════════
 @st.cache_data(show_spinner="Loading data …")
 def load_data():
-    file_path = "youtube_trending_videos_global.parquet"
+    # Resolve the parquet next to this script so it works from any working directory
+    file_path = str(Path(__file__).parent / "youtube_trending_videos_global.parquet")
     if not os.path.exists(file_path):
         return pd.DataFrame()
 
