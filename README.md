@@ -1,4 +1,7 @@
-# YouTube Content Success Analytics
+# YouTube Content Success Analytics 
+
+Members of Team 3
+Aditya Pandey, Dhruv Pandey, Ishika Goel, Udit Narayan, Ratnesh Patil, Dhananjay
 
 Capstone project analysing engagement drivers and content-performance trends across
 ~36,500 unique trending YouTube videos (deduplicated from ~450k trending appearances).
