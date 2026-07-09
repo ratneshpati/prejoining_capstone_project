@@ -1,6 +1,6 @@
 # YouTube Content Success Analytics 
 
-Members of Team 3
+Members of Team 3:
 Aditya Pandey, Dhruv Pandey, Ishika Goel, Udit Narayan, Ratnesh Patil, Dhananjay
 
 Capstone project analysing engagement drivers and content-performance trends across
